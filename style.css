@@ -1,0 +1,21 @@
+#footer{
+    background-color: rgb(176, 162, 236);
+}
+
+#header{
+	background-color: orange
+	
+}
+
+#body{
+	background-color: rgb(181, 217, 245)
+}
+
+#solution{
+    background-color: rgb(74, 207, 74)
+}
+
+.jumbotron{
+    background-image:url(http://dummy-images.com/abstract/dummy-750x350-B   ottles.jpg)  !important;
+    color: blueviolet !important
+}
