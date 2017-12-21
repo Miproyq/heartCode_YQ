@@ -1,21 +1,79 @@
 #footer{
-    background-color: rgb(176, 162, 236);
+    background-color: rgb(194, 183, 243);
 }
 
 #header{
-	background-color: orange
+    background-color: rgb(255, 248, 209);
+    padding:60px 0px 150px 0px
 	
 }
 
-#body{
-	background-color: rgb(181, 217, 245)
-}
-
 #solution{
-    background-color: rgb(74, 207, 74)
+    background-color: rgb(186, 247, 186)
 }
 
 .jumbotron{
-    background-image:url(http://dummy-images.com/abstract/dummy-750x350-B   ottles.jpg)  !important;
-    color: blueviolet !important
+    background-image:url(http://dummy-images.com/abstract/dummy-750x350-Bottles.jpg)  !important;
+    color: rgb(0, 0, 0) !important
+}
+
+#jumbotron{
+    background-color: rgb(56, 56, 56)
+}
+
+section{
+    padding:50px 0 50px 0
+}
+
+body{
+    padding:50px 0 0 0;
+    background-color: rgb(255, 214, 161)
+}
+
+.line-dec1{
+    width: 60px;
+    height: 3px;
+    background-color: #1a7579e3 ;
+    margin: 0 auto;
+}
+
+.line-dec{
+    width: 200px;
+    height: 3px;
+    background-color: #238839e3;
+    margin: 0 auto;
+}
+
+.about-content{
+    border-style:solid;
+    padding:40px 0 50px 0;
+}
+
+#issue{
+    background-color: antiquewhite 
+}
+
+#photo{
+    background-color: antiquewhite
+}
+
+.line-dec2{
+    height: 3px;
+    background-color: #1a7579e3;
+    margin: 10px auto;
+}
+
+.line-dec3{
+    height: 3px;
+    background-color: #238839e3;
+    margin: 10px auto;
+}
+
+.img{
+    border: 2px solid black
+}
+
+.fa-spin1{
+    -webkit-animation: fa-spin 0.05s infinite linear;
+    animation: fa-spin 0.05s infinite linear;
 }
