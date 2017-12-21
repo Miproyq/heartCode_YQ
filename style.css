@@ -75,6 +75,6 @@ section{
 }
 
 .fa-spin1{
-    -webkit-animation: fa-spin 0.05s infinite linear;
-    animation: fa-spin 0.05s infinite linear;
+    -webkit-animation: fa-spin 3s infinite linear;
+    animation: fa-spin 3s infinite linear;
 }
